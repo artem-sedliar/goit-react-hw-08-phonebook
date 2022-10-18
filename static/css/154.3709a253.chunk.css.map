@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/154.3709a253.chunk.css","mappings":"AAAA,8BACE,gBAAiB,CACjB,iBACF,CACA,0BACE,aACF,CACA,gEAEE,SACF","sources":["pages/NotFoundPage/NotFoundPage.module.css"],"sourcesContent":[".notFound {\n  padding-top: 88px;\n  text-align: center;\n}\n.link {\n  color: #2196f3;\n}\n.link:hover,\n.link:focus {\n  color: red;\n}\n"],"names":[],"sourceRoot":""}
