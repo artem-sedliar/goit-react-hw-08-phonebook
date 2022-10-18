@@ -1,0 +1,13 @@
+.app {
+  width: 399px;
+  margin: 0 auto;
+  padding-top: 33px;
+  padding-left: 33px;
+}
+.mainTitle {
+  margin-bottom: 13px;
+}
+.title {
+  margin-top: 13px;
+  margin-bottom: 13px;
+}

@@ -1,0 +1,11 @@
+.notFound {
+  padding-top: 88px;
+  text-align: center;
+}
+.link {
+  color: #2196f3;
+}
+.link:hover,
+.link:focus {
+  color: red;
+}
